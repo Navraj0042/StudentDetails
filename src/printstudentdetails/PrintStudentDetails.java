@@ -5,7 +5,7 @@
 package printstudentdetails;
 
 /**
- *
+ *Monday
  * @author garch
  */
 public class PrintStudentDetails {
